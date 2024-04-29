@@ -1,0 +1,3 @@
+enum EstadoTarea {
+    PENDIENTE, COMPLETADA, ELIMINADA
+}
